@@ -4,7 +4,7 @@
     public bool _West, _North, _East, _South;
     public bool _visited;
 
-    public int xPos, zPos; // Position en X et en Z.
+    public int xPos, zPos;
 
 
     public Cell(bool west, bool north, bool east, bool south, bool visited)
